@@ -1,0 +1,113 @@
+#f{
+    background-color: gold;
+}
+
+.outer-block { 
+    border: 2px solid rgb(230, 127, 127); 
+    padding: 10px; 
+    
+}
+
+.inner-block { 
+    margin: 5px; padding: 10px; 
+    border: 1px solid rgb(229, 87, 87); 
+    background-color: aqua;
+}
+
+#a {
+background-color: gray;
+padding: 5px ;
+width: 25%;
+float: left;
+clear: both;
+}
+
+#b {
+background-color: gray;
+padding: 5px ;
+width: 60%;
+float: left;
+clear: both;
+}
+
+#c {
+background-color: gray;
+padding: 5px ;
+width: 13%;
+float: left;
+clear: both;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#i{
+    display: flex;
+}
